@@ -2,8 +2,6 @@
 
 Este é um projeto de página pessoal responsiva desenvolvido com **HTML**, **CSS** e **JavaScript** puro. A página funciona como um cartão de visitas online, apresentando uma foto de perfil, redes sociais, link para o currículo, e um botão para alternar entre os modos **claro** e **escuro**.
 
-![Avatar Gabriel](./assets/AvatarGabriel.png)
-
 ## 🚀 Funcionalidades
 
 - ✅ Layout responsivo (mobile e desktop)
